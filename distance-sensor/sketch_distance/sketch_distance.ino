@@ -1,7 +1,7 @@
 #define PIN_BUZZER    7
 #define PIN_DS_ECHO   13
 #define PIN_DS_TRGR   12
-#define DIST_DIVIDER  (29 * 2)
+#define DIST_DIVIDER  (34 * 2)
 
 void            ping();
 unsigned int    calculateDistance(unsigned long);
