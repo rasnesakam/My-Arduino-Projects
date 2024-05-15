@@ -44,7 +44,7 @@ unsigned int setupDelayTime(unsigned int distance){
 }
 
 unsigned int calculateDistance(unsigned long echoTimeMs){
-  // The speed of sound is 340 m/s or 29 microseconds per centimeter.
+  // The speed of sound is 340 m/s or 34 microseconds per centimeter.
   // The ping travels out and back, so to find the distance of the object we
   // take half of the distance travelled.
   unsigned long distance = echoTimeMs / DIST_DIVIDER;
