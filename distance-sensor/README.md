@@ -4,6 +4,7 @@ We are using it to detect objects in spesific distances.
 
 ## HC-SR04 Pinout Diagram
 ![HC-SR04 Pinout Diagram](./assets/HC-SR04-Ultrasonic-Sensor-Pinout.webp)
+
 This sensor has 4 pins. Each of them described as follows:
 |Pin |Description|
 |:--:|:---------:|
